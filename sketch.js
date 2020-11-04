@@ -16,7 +16,7 @@ function preload(){
   blue_balloonImage = loadImage("blue_balloon0.png");
   color_balloonImage=loadImage("colorb.png");
   cactusImage=loadImage("cactus.png");
-  music=loadSound("music.wav.wav");
+  music=loadSound("music.mp3");
   heartImage=loadImage("heart.png");
 }
 
