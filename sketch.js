@@ -25,6 +25,7 @@ function preload(){
 function setup() {
   createCanvas(550, 550);
   music.loop();
+  music.play();
   //creating background
   bg = createSprite(0,0,300,600);
   bg.addImage(backgroundImage);
